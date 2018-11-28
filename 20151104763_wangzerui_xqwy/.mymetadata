@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="20151104763_wangzerui_xqwy"
+  id="myeclipse.1543374534986"
+  context-root="/20151104763_wangzerui_xqwy"
+  j2ee-spec="5.0"
+  archive="20151104763_wangzerui_xqwy.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
